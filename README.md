@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @loboaveces
-- 👀 I’m interested in Cloud Computing. I work with containers, Cloud Formation Templates, Python scripts and Dart justo for fun.
-- 🌱 I’m currently learning Kubernetes in deep.
+- 👀 I’m a Devops Engineer, I work with Kubernetes, microservices deployment process, Devops tools, Cloud Formation & Terraform Templates, Python scripts and Dart justo for fun.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me: aveceslobo@gmaildotcom
 
